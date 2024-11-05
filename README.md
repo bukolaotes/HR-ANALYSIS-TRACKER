@@ -19,6 +19,8 @@ Department and Job Role: Helps analyze attrition or satisfaction by department o
 
 # Data Analysis
 
+DAX Function(Data Analysis Expression) was used in calculating the metrics.
+
 1. Calculate the Overall Turnover Rate: Find the percentage of employees who left the company.
 
 
@@ -58,6 +60,7 @@ Over 55: 15.94%
 
 
 
+## Findings
 
 Based on the turnover rate analysis, here are some key insights and potential action points:
 
@@ -92,6 +95,14 @@ Action Point: Develop targeted retention strategies, such as flexible work optio
 In summary, focusing on retention initiatives for Sales employees and younger staff could help lower the overall turnover rate. These strategies could enhance satisfaction and career development, making the company more attractive to current and future talent.
 
 
+
+
+## Conclusion
+
+Based on these findings, recommendations for HR include:
+- Enhanced Retention Programs: Especially for younger employees and Sales.
+- Mentorship Opportunities: To engage younger employees with senior staff for career development.
+- Employee Surveys: Gather additional insights into reasons for high turnover in specific groups.
 
 
 
