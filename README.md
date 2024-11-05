@@ -17,7 +17,16 @@ Department and Job Role: Helps analyze attrition or satisfaction by department o
 
 
 
-# Data Analysis
+
+
+## Tool used:
+
+- POWER BI: For data analysis and visualization.
+  
+
+
+
+## Data Analysis
 
 DAX Function(Data Analysis Expression) was used in calculating the metrics.
 
@@ -106,8 +115,4 @@ Based on these findings, recommendations for HR include:
 
 
 
-## Tools 
-
-- POWER BI: For data analysis and visualization.
-  
 
